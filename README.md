@@ -1,5 +1,5 @@
 # react-native-expo-storybook-example
-expo v31 and storybook v4
+expo v32 and storybook v4
 
 ## Setup
 ``` console
